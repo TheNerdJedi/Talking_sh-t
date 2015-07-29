@@ -1,4 +1,4 @@
-:speak_no_evil:
+:hear_no_evil: :speak_no_evil: :see_no_evil:
 =========
 
 A simple Ruby IRC bot that insults its users with insults retrieved
